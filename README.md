@@ -1,5 +1,7 @@
 # dataset
 This repository provides the dataset used in our research paper. It includes all necessary files to reproduce the experiments and analyses described in the manuscript.
+This repository provides the dataset used in our research. The copyright of all product images in this dataset belongs to Hana Cupid Co., Ltd. and is used with permission.
+https://www.i879.com/
 
 ## General purpose:
 
