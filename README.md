@@ -1,23 +1,42 @@
-# dataset
-This repository provides the dataset used in our research paper. It includes all necessary files to reproduce the experiments and analyses described in the manuscript.
-This repository provides the dataset used in our research. The copyright of all product images in this dataset belongs to Hana Cupid Co., Ltd. and is used with permission.
-https://www.i879.com/
+# Dataset Repository
 
-## General purpose:
+This repository provides datasets used in our research projects.
 
-This repository contains the dataset used in our research paper titled "Impression evaluation of product images using deep neural network".
+Each dataset is stored in a separate directory. Please refer to the `README.md` file in each dataset directory for details about the data structure, annotation format, preprocessing steps, and usage notes.
 
-## With paper citation:
+## Repository Structure
 
-Dataset accompanying our paper "Impression evaluation of product images using deep neural network" presented at Neural Computing and Applications, 2025.
+```text
+dataset/
+├── flower_product/
+│   ├── README.md
+│   ├── target/
+│   ├── annotation_result/
+│   └── filename_mapping.csv
+└── README.md
+```
 
-@article{yamagiwa2025impression,
-  title={Impression evaluation of product images using deep neural network},
-  author={Yamagiwa, Ayako and Goto, Masayuki},
-  journal={Neural Computing and Applications},
-  volume={37},
-  number={16},
-  pages={10215--10242},
-  year={2025},
-  publisher={Springer}
-}
+## Available Datasets
+
+### flower_product
+
+This dataset contains flower image stimuli and annotation results prepared for research use.
+
+The image files have been renamed with sequential IDs for public release. The annotation files have also been processed to remove unnecessary personal or internal information.
+
+For more details, see:
+
+```text
+flower_product/README.md
+```
+
+## Notes
+
+* This repository is intended for sharing research datasets.
+* Personal or identifying information has been removed or anonymized before publication.
+* Please check the README file inside each dataset directory before using the data.
+* If you use this dataset in your research, please cite the corresponding paper or repository as appropriate.
+
+## License
+
+The license for each dataset may differ. Please refer to the README or license information provided in each dataset directory.
