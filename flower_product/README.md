@@ -11,6 +11,7 @@ This repository contains the dataset used in our research paper titled "Impressi
 
 Dataset accompanying our paper "Impression evaluation of product images using deep neural network" presented at Neural Computing and Applications, 2025.
 
+```text
 @article{yamagiwa2025impression,
   title={Impression evaluation of product images using deep neural network},
   author={Yamagiwa, Ayako and Goto, Masayuki},
@@ -21,4 +22,4 @@ Dataset accompanying our paper "Impression evaluation of product images using de
   year={2025},
   publisher={Springer}
 }
-
+```
