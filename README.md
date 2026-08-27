@@ -11,8 +11,7 @@ dataset/
 ├── flower_product/
 │   ├── README.md
 │   ├── target/
-│   ├── annotation_result/
-│   └── filename_mapping.csv
+│   └── annotation_result/
 └── README.md
 ```
 
