@@ -32,7 +32,6 @@ flower_product/
 │   ├── index001_eval_axis_cute.csv
 │   ├── index002_eval_axis_cute.csv
 │   └── ...
-├── filename_mapping.csv
 └── README.md
 ```
 
